@@ -1,0 +1,6 @@
+Anton Petrov ribi ['1', '12', '1998']
+Igor Gunov bliznec ['5', '9', '2000']
+Sasha Gunov Rak ['3', '7', '2002']
+Kirill Astaev rak ['6', '9', '2002']
+hjdf Igor df ['3', '5', '2000']
+Igor xcvcxb dsf ['3', '5', '2000']
